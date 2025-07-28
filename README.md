@@ -1,51 +1,52 @@
-# LINK
-### 공부일지 <a href="https://github.com/devna0111/ai_x"><img src="https://img.shields.io/badge/공부일지-0000FF?style=for-the-badge&logo=github&logoColor=white"/></a>
-### 1st TEAM PROJECT <a href="https://github.com/devna0111/FlowCast"><img src="https://img.shields.io/badge/PROJ[FlowCast]-FF0000?style=for-the-badge&logo=github&logoColor=white"/></a>
-### 2ed TEAM PROJECT <a href="https://github.com/devna0111/DocuMind"><img src="https://img.shields.io/badge/TEAMPRO[미정]-33FF33?style=for-the-badge&logo=github&logoColor=black"/></a>
+# ⚙️ LINK
+### 📘 공부일지  
+[![공부일지](https://img.shields.io/badge/공부일지-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devna0111/ai_x)
 
+### 📕 1st TEAM PROJECT  
+[![FlowCast](https://img.shields.io/badge/PROJ_FlowCast-222222?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devna0111/FlowCast)
 
- # 📚 SKIL
- ### Programming
+### 📗 2nd TEAM PROJECT  
+[![DocuMind](https://img.shields.io/badge/TEAMPRO_미정-333333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devna0111/DocuMind)
+
+---
+
+# 🛠️ SKILL SET
+
+## 💻 Programming
 <div>
-  <img src="https://img.shields.io/badge/python-55ff55?style=for-the-badge&logo=python&logoColor=white"> 
-  <img src="https://img.shields.io/badge/tensorflow-55ff55?style=for-the-badge&logo=fastapi&logoColor=white">
-  <img src="https://img.shields.io/badge/sklearn-55ff55?style=for-the-badge&logo=fastapi&logoColor=white">
-  <img src="https://img.shields.io/badge/ollama-55ff55?style=for-the-badge&logo=Ollama&logoColor=white">
-  <img src="https://img.shields.io/badge/RAG-55ff55?style=for-the-badge&logo=RAG&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/TensorFlow-111111?style=for-the-badge&logo=tensorflow&logoColor=white">
+  <img src="https://img.shields.io/badge/scikit--learn-222222?style=for-the-badge&logo=scikit-learn&logoColor=white">
+  <img src="https://img.shields.io/badge/Ollama-333333?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiB2aWV3Qm94PSIwIDAgMTAwIDEwMCI+PHJlY3Qgd2lkdGg9IjEwMCIgaGVpZ2h0PSIxMDAiIHJ4PSIxNSIgZmlsbD0iIzAwMCIvPjwvc3ZnPg==" alt="Ollama">
+  <img src="https://img.shields.io/badge/RAG-444444?style=for-the-badge&logoColor=white">
 </div>
 
- ### DBMS 
+## 🗄️ DBMS
 <div>
-  <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/sqlite-447900?style=for-the-badge&logo=sqlite&logoColor=white">
+  <img src="https://img.shields.io/badge/Oracle-000000?style=for-the-badge&logo=oracle&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/SQLite-222222?style=for-the-badge&logo=sqlite&logoColor=white">
 </div>
 
- ### WEB
- <div>
-  <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-</div>
-
- ### WEB programming
-<div> 
-  <img src="https://img.shields.io/badge/JSP-db46ca?style=for-the-badge&logo=eclipse&logoColor=white">
-</div>
-
- ### WEB Framework
+## 🌐 Web
 <div>
-  <img src="https://img.shields.io/badge/fastapi-FF0000?style=for-the-badge&logo=fastapi&logoColor=white">
-  <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-  <img src="https://img.shields.io/badge/django-FCC624?style=for-the-badge&logo=django&logoColor=black"> 
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/Bootstrap-222222?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-333333?style=for-the-badge&logo=javascript&logoColor=white">
+  <img src="https://img.shields.io/badge/jQuery-444444?style=for-the-badge&logo=jquery&logoColor=white">
 </div>
 
- ### git
- <div>
-  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
- </div>
+## ⚙️ Web Programming & Framework
+<div>
+  <img src="https://img.shields.io/badge/JSP-000000?style=for-the-badge&logo=eclipse&logoColor=white">
+  <img src="https://img.shields.io/badge/FastAPI-111111?style=for-the-badge&logo=fastapi&logoColor=white">
+  <img src="https://img.shields.io/badge/Flask-222222?style=for-the-badge&logo=flask&logoColor=white">
+  <img src="https://img.shields.io/badge/Django-333333?style=for-the-badge&logo=django&logoColor=white">
+</div>
 
-
+## 🔧 Version Control
+<div>
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=white">
+</div>
