@@ -2,7 +2,7 @@
 
 [![공부일지](https://img.shields.io/badge/Study_Log-C0C0C0?style=for-the-badge&logo=github&logoColor=black)](https://github.com/devna0111/ai_x)
 [![FlowCast](https://img.shields.io/badge/FlowCast_Project-A9A9A9?style=for-the-badge&logo=github&logoColor=black)](https://github.com/devna0111/FlowCast)
-[![DocuMind](https://img.shields.io/badge/DocuMind_Project-D3D3D3?style=for-the-badge&logo=github&logoColor=black)](https://github.com/devna0111/DocuMind)
+[![FlowMate](https://img.shields.io/badge/DocuMind_Project-D3D3D3?style=for-the-badge&logo=github&logoColor=black)](https://github.com/devna0111/FlowMate)
 
 ---
 
